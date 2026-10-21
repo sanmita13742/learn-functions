@@ -1,0 +1,23 @@
+%%writefile pyproject.toml
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learn-functions"
+dynamic = ["version"]
+description = "Look up official documentation links for the functions called in a Python snippet, inside notebooks."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Framework :: IPython",
+    "Intended Audience :: Education",
+]
+
+[tool.setuptools]
+py-modules = ["learn_functions"]
+
+[tool.setuptools.dynamic]
+version = {attr = "learn_functions.__version__"}

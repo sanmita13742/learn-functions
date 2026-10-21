@@ -1,0 +1,32 @@
+[
+  {
+    "name": "numpy",
+    "version": "2.5.4",
+    "summary": "Fundamental package for array computing in Python",
+    "documentation_url": "https://numpy.org/doc/",
+    "homepage_url": "https://numpy.org",
+    "source_url": "https://github.com/numpy/numpy",
+    "all_project_urls": {
+      "documentation": "https://numpy.org/doc/",
+      "download": "https://pypi.org/project/numpy/#files",
+      "homepage": "https://numpy.org",
+      "release notes": "https://numpy.org/doc/stable/release",
+      "source": "https://github.com/numpy/numpy",
+      "tracker": "https://github.com/numpy/numpy/issues"
+    },
+    "discovered_at": 1792606031.1220455
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "summary": "Python HTTP for Humans.",
+    "documentation_url": "https://requests.readthedocs.io",
+    "homepage_url": null,
+    "source_url": "https://github.com/psf/requests",
+    "all_project_urls": {
+      "Documentation": "https://requests.readthedocs.io",
+      "Source": "https://github.com/psf/requests"
+    },
+    "discovered_at": 1792606032.4725835
+  }
+]
