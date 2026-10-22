@@ -1,4 +1,3 @@
-%%writefile test_learn_functions.py 
 import ast
 import contextlib
 import io

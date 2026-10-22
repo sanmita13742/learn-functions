@@ -1,0 +1,2732 @@
+{
+  "metadata": {
+    "total_packages_processed": 2,
+    "status_summary": {
+      "documentation_found": 2
+    },
+    "total_symbols_collected": 371
+  },
+  "package_reports": [
+    {
+      "package_name": "requests",
+      "package_version": "2.34.2",
+      "status": "documentation_found",
+      "status_reason": "Successfully parsed Sphinx inventory",
+      "resolved_documentation_url": "https://requests.readthedocs.io",
+      "repository_url": "https://github.com/psf/requests",
+      "symbols_collected": 113,
+      "collection_time": 1792606935.7608683
+    },
+    {
+      "package_name": "Flask",
+      "package_version": "3.1.3",
+      "status": "documentation_found",
+      "status_reason": "Successfully parsed Sphinx inventory",
+      "resolved_documentation_url": "https://flask.palletsprojects.com/",
+      "repository_url": "https://github.com/pallets/flask/",
+      "symbols_collected": 258,
+      "collection_time": 1792606937.0429025
+    }
+  ],
+  "symbols": [
+    {
+      "canonical_name": "requests",
+      "symbol_type": "module",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#module-requests",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.deregister_hook",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.deregister_hook",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_auth",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_auth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_body",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_body",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_content_length",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_content_length",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_cookies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_cookies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_headers",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_headers",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_hooks",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_hooks",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_method",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_method",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.prepare_url",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_url",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.PreparedRequest.register_hook",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.register_hook",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Request",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Request",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Request.deregister_hook",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Request.deregister_hook",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Request.prepare",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Request.prepare",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Request.register_hook",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Request.register_hook",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response.close",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response.close",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response.iter_content",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response.iter_content",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response.iter_lines",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response.iter_lines",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response.json",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response.json",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Response.raise_for_status",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response.raise_for_status",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.close",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.close",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.delete",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.delete",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.get",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.get",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.get_adapter",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.get_adapter",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.get_redirect_target",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.get_redirect_target",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.head",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.head",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.merge_environment_settings",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.merge_environment_settings",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.mount",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.mount",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.options",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.options",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.patch",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.patch",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.post",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.post",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.prepare_request",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.prepare_request",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.put",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.put",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.rebuild_auth",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.rebuild_auth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.rebuild_method",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.rebuild_method",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.rebuild_proxies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.rebuild_proxies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.request",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.request",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.resolve_redirects",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.resolve_redirects",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.send",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.send",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.Session.should_strip_auth",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session.should_strip_auth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.BaseAdapter",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.BaseAdapter",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.BaseAdapter.close",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.BaseAdapter.close",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.BaseAdapter.send",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.BaseAdapter.send",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.add_headers",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.add_headers",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.build_connection_pool_key_attributes",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.build_connection_pool_key_attributes",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.build_response",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.build_response",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.cert_verify",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.cert_verify",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.close",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.close",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.get_connection",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.get_connection",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.get_connection_with_tls_context",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.get_connection_with_tls_context",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.init_poolmanager",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.init_poolmanager",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.proxy_headers",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.proxy_headers",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.proxy_manager_for",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.proxy_manager_for",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.request_url",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.request_url",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.adapters.HTTPAdapter.send",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.adapters.HTTPAdapter.send",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.auth.AuthBase",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.auth.AuthBase",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.auth.HTTPBasicAuth",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.auth.HTTPBasicAuth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.auth.HTTPDigestAuth",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.auth.HTTPDigestAuth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.auth.HTTPProxyAuth",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.auth.HTTPProxyAuth",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.CookieConflictError",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.CookieConflictError",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.CookieConflictError.add_note",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.CookieConflictError.add_note",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.CookieConflictError.with_traceback",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.CookieConflictError.with_traceback",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.add_cookie_header",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.add_cookie_header",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.clear",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.clear",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.clear_expired_cookies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.clear_expired_cookies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.clear_session_cookies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.clear_session_cookies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.copy",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.copy",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.extract_cookies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.extract_cookies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.get",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.get",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.get_dict",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.get_dict",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.get_policy",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.get_policy",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.items",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.items",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.iteritems",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.iteritems",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.iterkeys",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.iterkeys",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.itervalues",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.itervalues",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.keys",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.keys",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.list_domains",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.list_domains",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.list_paths",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.list_paths",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.make_cookies",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.make_cookies",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.multiple_domains",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.multiple_domains",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.pop",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.pop",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.popitem",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.popitem",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.set",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.set",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.set_cookie",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.set_cookie",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.set_cookie_if_ok",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.set_cookie_if_ok",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.setdefault",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.setdefault",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.update",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.update",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.RequestsCookieJar.values",
+      "symbol_type": "method",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.RequestsCookieJar.values",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.cookies.cookiejar_from_dict",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.cookies.cookiejar_from_dict",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.delete",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.delete",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.get",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.get",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.head",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.head",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.models",
+      "symbol_type": "module",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/user/quickstart/#module-requests.models",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.models.PreparedRequest",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.models.Request",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Request",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.models.Response",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Response",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.patch",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.patch",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.post",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.post",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.put",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.put",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.request",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.request",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.sessions.Session",
+      "symbol_type": "class",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.Session",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.status_codes",
+      "symbol_type": "module",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#module-requests.status_codes",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.utils.add_dict_to_cookiejar",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.utils.add_dict_to_cookiejar",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.utils.dict_from_cookiejar",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.utils.dict_from_cookiejar",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.utils.get_encoding_from_headers",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.utils.get_encoding_from_headers",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.utils.get_encodings_from_content",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.utils.get_encodings_from_content",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "requests.utils.get_unicode_from_response",
+      "symbol_type": "function",
+      "package": "requests",
+      "url": "https://requests.readthedocs.io/en/latest/api/#requests.utils.get_unicode_from_response",
+      "source_inventory": "https://requests.readthedocs.io/en/latest/objects.inv"
+    },
+    {
+      "canonical_name": "flask",
+      "symbol_type": "module",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#module-flask",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.add_app_template_filter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.add_app_template_filter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.add_app_template_global",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.add_app_template_global",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.add_app_template_test",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.add_app_template_test",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.add_url_rule",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.add_url_rule",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.after_app_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.after_app_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.after_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.after_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_context_processor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_context_processor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_errorhandler",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_errorhandler",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_template_filter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_template_filter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_template_global",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_template_global",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_template_test",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_template_test",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_url_defaults",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_url_defaults",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.app_url_value_preprocessor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.app_url_value_preprocessor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.before_app_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.before_app_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.before_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.before_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.context_processor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.context_processor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.delete",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.delete",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.endpoint",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.endpoint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.errorhandler",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.errorhandler",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.get",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.get",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.get_send_file_max_age",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.get_send_file_max_age",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.make_setup_state",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.make_setup_state",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.open_resource",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.open_resource",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.patch",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.patch",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.post",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.post",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.put",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.put",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.record",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.record",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.record_once",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.record_once",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.register",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.register",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.register_blueprint",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.register_blueprint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.register_error_handler",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.register_error_handler",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.route",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.route",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.send_static_file",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.send_static_file",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.teardown_app_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.teardown_app_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.teardown_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.teardown_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.url_defaults",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.url_defaults",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Blueprint.url_value_preprocessor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint.url_value_preprocessor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_envvar",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_envvar",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_file",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_file",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_mapping",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_mapping",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_object",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_object",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_prefixed_env",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_prefixed_env",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.from_pyfile",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.from_pyfile",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Config.get_namespace",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config.get_namespace",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.add_template_filter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.add_template_filter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.add_template_global",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.add_template_global",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.add_template_test",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.add_template_test",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.add_url_rule",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.add_url_rule",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.after_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.after_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.app_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.app_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.async_to_sync",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.async_to_sync",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.auto_find_instance_path",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.auto_find_instance_path",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.before_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.before_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.context_processor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.context_processor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.create_global_jinja_loader",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.create_global_jinja_loader",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.create_jinja_environment",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.create_jinja_environment",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.create_url_adapter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.create_url_adapter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.delete",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.delete",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.dispatch_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.dispatch_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.do_teardown_appcontext",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.do_teardown_appcontext",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.do_teardown_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.do_teardown_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.endpoint",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.endpoint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.ensure_sync",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.ensure_sync",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.errorhandler",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.errorhandler",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.full_dispatch_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.full_dispatch_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.get",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.get",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.get_send_file_max_age",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.get_send_file_max_age",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.handle_exception",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.handle_exception",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.handle_http_exception",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.handle_http_exception",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.handle_url_build_error",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.handle_url_build_error",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.handle_user_exception",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.handle_user_exception",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.inject_url_defaults",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.inject_url_defaults",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.iter_blueprints",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.iter_blueprints",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.log_exception",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.log_exception",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.make_aborter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.make_aborter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.make_config",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.make_config",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.make_default_options_response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.make_default_options_response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.make_response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.make_response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.make_shell_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.make_shell_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.open_instance_resource",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.open_instance_resource",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.open_resource",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.open_resource",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.patch",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.patch",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.post",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.post",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.preprocess_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.preprocess_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.process_response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.process_response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.put",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.put",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.redirect",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.redirect",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.register_blueprint",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.register_blueprint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.register_error_handler",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.register_error_handler",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.request_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.request_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.route",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.route",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.run",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.run",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.select_jinja_autoescape",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.select_jinja_autoescape",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.send_static_file",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.send_static_file",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.shell_context_processor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.shell_context_processor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.should_ignore_error",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.should_ignore_error",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.teardown_appcontext",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.teardown_appcontext",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.teardown_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.teardown_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.template_filter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.template_filter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.template_global",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.template_global",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.template_test",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.template_test",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.test_cli_runner",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.test_cli_runner",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.test_client",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.test_client",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.test_request_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.test_request_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.trap_http_exception",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.trap_http_exception",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.update_template_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.update_template_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.url_defaults",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.url_defaults",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.url_for",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.url_for",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.url_value_preprocessor",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.url_value_preprocessor",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Flask.wsgi_app",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask.wsgi_app",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.application",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.application",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.close",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.close",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.from_values",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.from_values",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.get_data",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.get_data",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.get_json",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.get_json",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.make_form_data_parser",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.make_form_data_parser",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Request.on_json_loading_failed",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request.on_json_loading_failed",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.add_etag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.add_etag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.calculate_content_length",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.calculate_content_length",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.call_on_close",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.call_on_close",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.close",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.close",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.delete_cookie",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.delete_cookie",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.force_type",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.force_type",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.freeze",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.freeze",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.from_app",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.from_app",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_app_iter",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_app_iter",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_data",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_data",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_etag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_etag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_json",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_json",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_wsgi_headers",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_wsgi_headers",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.get_wsgi_response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.get_wsgi_response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.iter_encoded",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.iter_encoded",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.make_conditional",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.make_conditional",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.make_sequence",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.make_sequence",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.set_cookie",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.set_cookie",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.set_data",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.set_data",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.Response.set_etag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response.set_etag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.abort",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.abort",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.after_this_request",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.after_this_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.app.Flask",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Flask",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.blueprints.Blueprint",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Blueprint",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.blueprints.BlueprintSetupState",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.blueprints.BlueprintSetupState",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.blueprints.BlueprintSetupState.add_url_rule",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.blueprints.BlueprintSetupState.add_url_rule",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.AppGroup",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.AppGroup",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.AppGroup.command",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.AppGroup.command",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.AppGroup.group",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.AppGroup.group",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.FlaskGroup",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.FlaskGroup",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.FlaskGroup.get_command",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.FlaskGroup.get_command",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.FlaskGroup.list_commands",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.FlaskGroup.list_commands",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.FlaskGroup.make_context",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.FlaskGroup.make_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.ScriptInfo",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.ScriptInfo",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.ScriptInfo.load_app",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.ScriptInfo.load_app",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.load_dotenv",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.load_dotenv",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.pass_script_info",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.pass_script_info",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.cli.with_appcontext",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.cli.with_appcontext",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.config.Config",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Config",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.copy_current_request_context",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.copy_current_request_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.AppContext",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.AppContext",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.AppContext.pop",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.AppContext.pop",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.AppContext.push",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.AppContext.push",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.RequestContext",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.RequestContext",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.RequestContext.copy",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.RequestContext.copy",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.RequestContext.match_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.RequestContext.match_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx.RequestContext.pop",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx.RequestContext.pop",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx._AppCtxGlobals",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx._AppCtxGlobals",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx._AppCtxGlobals.get",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx._AppCtxGlobals.get",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx._AppCtxGlobals.pop",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx._AppCtxGlobals.pop",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.ctx._AppCtxGlobals.setdefault",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.ctx._AppCtxGlobals.setdefault",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.flash",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.flash",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.get_flashed_messages",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.get_flashed_messages",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.get_template_attribute",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.get_template_attribute",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.has_app_context",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.has_app_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.has_request_context",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.has_request_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json",
+      "symbol_type": "module",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#module-flask.json",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.dump",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.dump",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.dumps",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.dumps",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.jsonify",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.jsonify",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.load",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.load",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.loads",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.loads",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.DefaultJSONProvider",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.DefaultJSONProvider",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.DefaultJSONProvider.default",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.DefaultJSONProvider.default",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.DefaultJSONProvider.dumps",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.DefaultJSONProvider.dumps",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.DefaultJSONProvider.loads",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.DefaultJSONProvider.loads",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.DefaultJSONProvider.response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.DefaultJSONProvider.response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider.dump",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider.dump",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider.dumps",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider.dumps",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider.load",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider.load",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider.loads",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider.loads",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.provider.JSONProvider.response",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.provider.JSONProvider.response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag",
+      "symbol_type": "module",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#module-flask.json.tag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.JSONTag",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.JSONTag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.JSONTag.check",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.JSONTag.check",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.JSONTag.tag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.JSONTag.tag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.JSONTag.to_json",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.JSONTag.to_json",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.JSONTag.to_python",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.JSONTag.to_python",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer.dumps",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer.dumps",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer.loads",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer.loads",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer.register",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer.register",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer.tag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer.tag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.json.tag.TaggedJSONSerializer.untag",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.json.tag.TaggedJSONSerializer.untag",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.make_response",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.make_response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.redirect",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.redirect",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.render_template",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.render_template",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.render_template_string",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.render_template_string",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sansio.blueprints.BlueprintSetupState",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.blueprints.BlueprintSetupState",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.send_file",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.send_file",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.send_from_directory",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.send_from_directory",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.session",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession.clear",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession.clear",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession.pop",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession.pop",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession.popitem",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession.popitem",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession.setdefault",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession.setdefault",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.NullSession.update",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.NullSession.update",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SecureCookieSession",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SecureCookieSession",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SecureCookieSessionInterface",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SecureCookieSessionInterface",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SecureCookieSessionInterface.digest_method",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SecureCookieSessionInterface.digest_method",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SecureCookieSessionInterface.open_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SecureCookieSessionInterface.open_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SecureCookieSessionInterface.save_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SecureCookieSessionInterface.save_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_domain",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_domain",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_httponly",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_httponly",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_name",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_name",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_partitioned",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_partitioned",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_path",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_path",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_samesite",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_samesite",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_cookie_secure",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_cookie_secure",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.get_expiration_time",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.get_expiration_time",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.is_null_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.is_null_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.make_null_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.make_null_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.open_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.open_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.save_session",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.save_session",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionInterface.should_set_cookie",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionInterface.should_set_cookie",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.sessions.SessionMixin",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.sessions.SessionMixin",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.stream_template",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.stream_template",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.stream_template_string",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.stream_template_string",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.stream_with_context",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.stream_with_context",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.testing.FlaskCliRunner",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.testing.FlaskCliRunner",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.testing.FlaskCliRunner.invoke",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.testing.FlaskCliRunner.invoke",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.testing.FlaskClient",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.testing.FlaskClient",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.testing.FlaskClient.open",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.testing.FlaskClient.open",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.testing.FlaskClient.session_transaction",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.testing.FlaskClient.session_transaction",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.url_for",
+      "symbol_type": "function",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.url_for",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.views.MethodView",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.views.MethodView",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.views.MethodView.dispatch_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.views.MethodView.dispatch_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.views.View",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.views.View",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.views.View.as_view",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.views.View.as_view",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.views.View.dispatch_request",
+      "symbol_type": "method",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.views.View.dispatch_request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.wrappers.Request",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Request",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    },
+    {
+      "canonical_name": "flask.wrappers.Response",
+      "symbol_type": "class",
+      "package": "Flask",
+      "url": "https://flask.palletsprojects.com/api/#flask.Response",
+      "source_inventory": "https://flask.palletsprojects.com/objects.inv"
+    }
+  ],
+  "learn_functions_docs_sample": {
+    "requests": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#module-requests"
+    ],
+    "requests.PreparedRequest": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest"
+    ],
+    "requests.PreparedRequest.deregister_hook": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.deregister_hook"
+    ],
+    "requests.PreparedRequest.prepare": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare"
+    ],
+    "requests.PreparedRequest.prepare_auth": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_auth"
+    ],
+    "requests.PreparedRequest.prepare_body": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_body"
+    ],
+    "requests.PreparedRequest.prepare_content_length": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_content_length"
+    ],
+    "requests.PreparedRequest.prepare_cookies": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_cookies"
+    ],
+    "requests.PreparedRequest.prepare_headers": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_headers"
+    ],
+    "requests.PreparedRequest.prepare_hooks": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_hooks"
+    ],
+    "requests.PreparedRequest.prepare_method": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_method"
+    ],
+    "requests.PreparedRequest.prepare_url": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.prepare_url"
+    ],
+    "requests.PreparedRequest.register_hook": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.PreparedRequest.register_hook"
+    ],
+    "requests.Request": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Request"
+    ],
+    "requests.Request.deregister_hook": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Request.deregister_hook"
+    ],
+    "requests.Request.prepare": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Request.prepare"
+    ],
+    "requests.Request.register_hook": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Request.register_hook"
+    ],
+    "requests.Response": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response"
+    ],
+    "requests.Response.close": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response.close"
+    ],
+    "requests.Response.iter_content": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response.iter_content"
+    ],
+    "requests.Response.iter_lines": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response.iter_lines"
+    ],
+    "requests.Response.json": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response.json"
+    ],
+    "requests.Response.raise_for_status": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Response.raise_for_status"
+    ],
+    "requests.Session": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Session"
+    ],
+    "requests.Session.close": [
+      "requests",
+      "https://requests.readthedocs.io/en/latest/api/#requests.Session.close"
+    ]
+  }
+}
