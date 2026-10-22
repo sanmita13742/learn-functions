@@ -98,6 +98,10 @@ DOCS: Dict[str, Tuple[str, str]] = {
         "PyTorch",
         "https://docs.pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader",
     ),
+    "torch.tensor": (
+        "PyTorch",
+        "https://docs.pytorch.org/docs/stable/generated/torch.tensor.html",
+    ),
 }
 
 DEFAULT_COLLECTED_DOCS_PATH = Path(__file__).parent / "data" / "collected_documentation.json"
