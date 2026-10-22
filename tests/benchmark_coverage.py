@@ -17,11 +17,15 @@ Also measures:
 import argparse
 import json
 import logging
+import sys
 import time
 import urllib.parse
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+
+# Ensure project root is in sys.path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import learn_functions as lf
 
@@ -422,6 +426,8 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
+    # Explicitly ensure collected documentation corpus is loaded
+    lf.load_documentation()
     cases = generate_benchmark_suite()
     logger.info("Executing benchmark with %d test cases...", len(cases))
     results = run_benchmark(cases)

@@ -267,11 +267,11 @@ def print_audit_report(results: Dict[str, Any], live_results: Dict[str, Any]) ->
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Audit data quality of collected_documentation.json.")
+    default_data_path = Path(__file__).parent.parent / "data" / "collected_documentation.json"
     parser.add_argument(
         "-i", "--input",
         type=Path,
-        default=Path("data/collected_documentation.json"),
+        default=default_data_path,
         help="Path to collected_documentation.json (default: data/collected_documentation.json).",
     )
     parser.add_argument(
