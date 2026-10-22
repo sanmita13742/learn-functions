@@ -1,5 +1,8 @@
 import learn_functions as lf
 
+# Ensure collected documentation index is loaded
+lf.load_documentation()
+
 # A snippet where pd, np, and requests are called without importing them inside the snippet
 code = """
 resp = requests.get('https://example.com')

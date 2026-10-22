@@ -217,7 +217,7 @@ class TestLookupSymbol(unittest.TestCase):
     def test_bare_name_returns_candidates(self):
         result = lf.lookup_symbol("reshape")
         self.assertEqual(result.status, "candidates")
-        self.assertEqual([c.symbol for c in result.candidates], ["numpy.reshape"])
+        self.assertIn("numpy.reshape", [c.symbol for c in result.candidates])
 
     def test_class_short_name(self):
         result = lf.lookup_symbol("CIFAR10")

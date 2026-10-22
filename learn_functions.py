@@ -33,7 +33,7 @@ logger = logging.getLogger("learn_functions")
 MAX_ROWS = 50
 
 # Core baseline documentation dictionary
-DOCS: Dict[str, Tuple[str, str]] = {
+BASELINE_DOCS: Dict[str, Tuple[str, str]] = {
     "builtins.len": (
         "Python",
         "https://docs.python.org/3/library/functions.html#len",
@@ -104,6 +104,8 @@ DOCS: Dict[str, Tuple[str, str]] = {
     ),
 }
 
+DOCS: Dict[str, Tuple[str, str]] = dict(BASELINE_DOCS)
+
 DEFAULT_COLLECTED_DOCS_PATH = Path(__file__).parent / "data" / "collected_documentation.json"
 
 
@@ -137,10 +139,8 @@ def load_documentation(json_path: Path = DEFAULT_COLLECTED_DOCS_PATH) -> int:
         return 0
 
 
-# Load collected documentation automatically in interactive / notebook sessions
-# (skipped when running test suites to preserve baseline index assertions)
-if "unittest" not in sys.modules and not any("test" in arg.lower() for arg in sys.argv):
-    load_documentation()
+# Load collected documentation automatically into the index
+load_documentation()
 
 
 @dataclass
